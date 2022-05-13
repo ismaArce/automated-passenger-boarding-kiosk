@@ -1,6 +1,6 @@
 Flight No,Origin,Destination,Date,Time,First Name,Last Name,Sex, SeatNo, DateofBirth, DoBValidation, PersonValidation, LuggageValidation, NameValidation, BoardingPassValidation
-UA-123,Los Angeles,San Salvador, 10 July 2021, 10:00,Ismael,Arce,M,10A, 2 January 1994,FALSE,FALSE,FALSE,FALSE,FALSE
-UA-123,Los Angeles,San Salvador, 10 July 2021, 10:00,Victoria,Alvarado,F,10B, 6 December 1997,FALSE,FALSE,FALSE,FALSE,FALSE
-UA-123,Los Angeles,San Salvador, 10 July 2021, 10:00,Juan,Perez,M,15A, 31 January 1994,FALSE,FALSE,FALSE,FALSE,FALSE
-UA-123,Los Angeles,San Salvador, 10 July 2021, 10:00,Carlos,Flores,M,15B, 12 January 1990,FALSE,FALSE,FALSE,FALSE,FALSE
-UA-123,Los Angeles,San Salvador, 10 July 2021, 10:00,Manuel,Garcia,M,20A, 3 July 1994,FALSE,FALSE,FALSE,FALSE,FALSE
+234,San Francisco,Chicago,20-Aug-22,10:00 AM PST,Sameer,Kumar, M,34A,25-Jan-90,FALSE,FALSE,FALSE,FALSE,FALSE
+234,San Francisco,Chicago,20-Aug-22,10:00 AM PST,Radha,S. Kumar, F,34B,5-Mar-94,FALSE,FALSE,FALSE,FALSE,FALSE
+234,San Francisco,Chicago,20-Aug-22,10:00 AM PST,Libby,Herold, F,3D,10-Feb-96,FALSE,FALSE,FALSE,FALSE,FALSE
+234,San Francisco,Chicago,20-Aug-22,10:00 AM PST,James,Jackson, M,25B,12-Oct-56,FALSE,FALSE,FALSE,FALSE,FALSE
+234,San Francisco,Chicago,20-Aug-22,10:00 AM PST,Ismael,Arce, M,20A,2-Jan-94,FALSE,FALSE,FALSE,FALSE,FALSE

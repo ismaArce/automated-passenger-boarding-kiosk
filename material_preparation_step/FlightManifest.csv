@@ -1,6 +1,6 @@
 Passanger Name,Carrier ,Flight No.,Class,From,To,Date,Baggage,Seat,Gate,Boarding Time,Ticket No.
-Ismael Arce,UA,UA-123,Economy,Los Angeles,San Salvador,10-Jul-22,YES,10A,G1,10:00 AM PST,34236746
-Victoria Alvarado,UA,UA-123,Economy,Los Angeles,San Salvador,10-Jul-22,YES,10B,G1,10:00 AM PST,34236747
-Juan Perez,UA,UA-123,Business,Los Angeles,San Salvador,10-Jul-22,No,15A,G1,10:00 AM PST,34236748
-Carlos Flores,UA,UA-123,Business,Los Angeles,San Salvador,10-Jul-22,No,15B,G1,10:00 AM PST,34236749
-Manuel Garcia,UA,UA-123,Economy,Los Angeles,San Salvador,10-Jul-22,YES,20A,G1,10:00 AM PST,34236750
+Sameer Kumar,UA,234,Economy,San Francisco,Chicago,20-Aug-22,YES,34A,G1,10:00 AM PST,34236746
+Radha S. Kumar,UA,234,Economy,San Francisco,Chicago,20-Aug-22,YES,34B,G1,10:00 AM PST,34236747
+Libby Herold,UA,234,Business,San Francisco,Chicago,20-Aug-22,No,3D,G1,10:00 AM PST,34236749
+James Jackson,UA,234,Economy,San Francisco,Chicago,20-Aug-22,YES,25B,G1,10:00 AM PST,34236750
+Ismael Arce,UA,234,Economy,San Francisco,Chicago,20-Aug-22,No,20A,G1,10:00 AM PST,34236751
