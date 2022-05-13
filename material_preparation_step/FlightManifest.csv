@@ -1,0 +1,6 @@
+Passanger Name,Carrier ,Flight No.,Class,From,To,Date,Baggage,Seat,Gate,Boarding Time,Ticket No.
+Ismael Arce,UA,UA-123,Economy,Los Angeles,San Salvador,10-Jul-22,YES,10A,G1,10:00 AM PST,34236746
+Victoria Alvarado,UA,UA-123,Economy,Los Angeles,San Salvador,10-Jul-22,YES,10B,G1,10:00 AM PST,34236747
+Juan Perez,UA,UA-123,Business,Los Angeles,San Salvador,10-Jul-22,No,15A,G1,10:00 AM PST,34236748
+Carlos Flores,UA,UA-123,Business,Los Angeles,San Salvador,10-Jul-22,No,15B,G1,10:00 AM PST,34236749
+Manuel Garcia,UA,UA-123,Economy,Los Angeles,San Salvador,10-Jul-22,YES,20A,G1,10:00 AM PST,34236750

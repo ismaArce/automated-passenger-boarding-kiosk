@@ -1,0 +1,6 @@
+Flight No,Origin,Destination,Date,Time,First Name,Last Name,Sex, SeatNo, DateofBirth, DoBValidation, PersonValidation, LuggageValidation, NameValidation, BoardingPassValidation
+UA-123,Los Angeles,San Salvador, 10 July 2021, 10:00,Ismael,Arce,M,10A, 2 January 1994,FALSE,FALSE,FALSE,FALSE,FALSE
+UA-123,Los Angeles,San Salvador, 10 July 2021, 10:00,Victoria,Alvarado,F,10B, 6 December 1997,FALSE,FALSE,FALSE,FALSE,FALSE
+UA-123,Los Angeles,San Salvador, 10 July 2021, 10:00,Juan,Perez,M,15A, 31 January 1994,FALSE,FALSE,FALSE,FALSE,FALSE
+UA-123,Los Angeles,San Salvador, 10 July 2021, 10:00,Carlos,Flores,M,15B, 12 January 1990,FALSE,FALSE,FALSE,FALSE,FALSE
+UA-123,Los Angeles,San Salvador, 10 July 2021, 10:00,Manuel,Garcia,M,20A, 3 July 1994,FALSE,FALSE,FALSE,FALSE,FALSE
