@@ -1,0 +1,6 @@
+Carrier ,Flight No,Class,Origin,Destination,Date,Boarding Time,First Name,Last Name,Sex, DateofBirth,Baggage, SeatNo,Gate,Ticket No., DoBValidation, PersonValidation, LuggageValidation, NameValidation, BoardingPassValidation
+UA,234,Economy,San Francisco,Chicago,20-Aug-22,10:00 AM PST,Sameer,Kumar, M,25-Jan-90,YES,34A,G1,34236746,FALSE,FALSE,FALSE,FALSE,FALSE
+UA,234,Economy,San Francisco,Chicago,20-Aug-22,10:00 AM PST,Radha,S. Kumar, F,5-Mar-94,YES,34B,G1,34236747,FALSE,FALSE,FALSE,FALSE,FALSE
+UA,234,Business,San Francisco,Chicago,20-Aug-22,10:00 AM PST,Libby,Herold, F,10-Feb-96,No,3D,G1,34236749,FALSE,FALSE,FALSE,FALSE,FALSE
+UA,234,Economy,San Francisco,Chicago,20-Aug-22,10:00 AM PST,James,Jackson, M,12-Oct-56,YES,25B,G1,34236750,FALSE,FALSE,FALSE,FALSE,FALSE
+UA,234,Economy,San Francisco,Chicago,20-Aug-22,10:00 AM PST,Ismael,Arce, M,2-Jan-94,No,20A,G1,34236751,FALSE,FALSE,FALSE,FALSE,FALSE
